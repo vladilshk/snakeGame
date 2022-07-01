@@ -13,6 +13,8 @@ public class MainWindow extends JFrame {
 
 
     public static void main(String[] args){
-        MainWindow mw = new MainWindow();
+        TestOne.test();
+        Huy.huyWriter("Yankovsky");
+       // MainWindow mw = new MainWindow();
     }
 }
